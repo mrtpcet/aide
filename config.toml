@@ -5,7 +5,7 @@ title = 'aide.pcet.link'
 theme = 'book'
 languageCode = "fr-fr"
 defaultContentLanguage = "fr"
-publish = "docs"
+publishDir = "docs"
 
 # Book configuration
 disablePathToLower = true

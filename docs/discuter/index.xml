@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discuter (Mattermost) on aide.pcet.link</title>
-    <link>https://aide.pcet.link/discuter/</link>
+    <link>https://mrtpcet.github.io/aide.pcet.link/discuter/</link>
     <description>Recent content in Discuter (Mattermost) on aide.pcet.link</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 03 May 2020 10:30:29 +0200</lastBuildDate><atom:link href="https://aide.pcet.link/discuter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 May 2020 10:30:29 +0200</lastBuildDate><atom:link href="https://mrtpcet.github.io/aide.pcet.link/discuter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Exemple d&#39;utilisation</title>
-      <link>https://aide.pcet.link/discuter/exemple-d-utilisation/</link>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/exemple-d-utilisation/</link>
       <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
       
-      <guid>https://aide.pcet.link/discuter/exemple-d-utilisation/</guid>
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/exemple-d-utilisation/</guid>
       <description>Exemple d’utilisation de Discuter #  L&amp;rsquo;exemple ci-dessous a été rédigée par Framasoft pour Framateam (leur instance Mattermost), mais tout fonctionne exactement de la même façon sur Discuter !  L’asso LICORNES veut quitter son groupe Facebook #  Sandrine, la présidente de l&amp;rsquo;association LICORNE, en a marre d’utiliser Facebook pour discuter avec les membres.
 Créer son équipe #  Elle décide donc de se créer un compte Discuter. Ça, c’est facile : le truc classique, en trois étapes :</description>
     </item>
     
     <item>
       <title>Politique de confidentialité</title>
-      <link>https://aide.pcet.link/discuter/politique-de-confidentialite/</link>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/politique-de-confidentialite/</link>
       <pubDate>Sun, 03 May 2020 19:30:29 +0200</pubDate>
       
-      <guid>https://aide.pcet.link/discuter/politique-de-confidentialite/</guid>
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/politique-de-confidentialite/</guid>
       <description>Politique de confidentialité #   Si vous n&amp;rsquo;avez jamais mis le nez dans les politiques de confidentialité d&amp;rsquo;un service, rassurez-vous, celle du service Discuter (et de tous les services hébergés par mes soins) est très simple.
 Définitions : #  L&amp;rsquo;Éditeur : C&amp;rsquo;est moi, c&amp;rsquo;est Herminien, qui maintient les services dont Discuter.
 Le Site : C&amp;rsquo;est Discuter.
@@ -32,19 +32,19 @@ Quelles données sont collectées ? #  Dans le cadre de son activité, Herminien
     
     <item>
       <title>Conditions d&#39;utilisation</title>
-      <link>https://aide.pcet.link/discuter/conditions-d-utilisation/</link>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/conditions-d-utilisation/</link>
       <pubDate>Sun, 03 May 2020 11:30:29 +0200</pubDate>
       
-      <guid>https://aide.pcet.link/discuter/conditions-d-utilisation/</guid>
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/conditions-d-utilisation/</guid>
       <description>Conditions d&amp;rsquo;utilisation #   Conditions d&amp;rsquo;utilisation du service Mattermost (à écrire !)</description>
     </item>
     
     <item>
       <title>Nouvelle adresse</title>
-      <link>https://aide.pcet.link/discuter/nouvelle-adresse/</link>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/nouvelle-adresse/</link>
       <pubDate>Sat, 30 Jan 2021 11:30:29 +0200</pubDate>
       
-      <guid>https://aide.pcet.link/discuter/nouvelle-adresse/</guid>
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/nouvelle-adresse/</guid>
       <description>Nouvelle adresse #   Pour plus de clarté, l&amp;rsquo;adresse de Mattermost change le 31 janvier 2021.
  Jusqu&amp;rsquo;au 30 janvier 2021, l&amp;rsquo;adresse était : https://pcet.fr/chat/ À partir du 31 janvier 2021, l&amp;rsquo;adresse est : https://discuter.pcet.link  En effet, j&amp;rsquo;ai décidé de rassembler tous les services que j&amp;rsquo;héberge sur le nom de domaine pcet.link afin de les séparer de mes activités personnelles sur pcet.fr.
 Enfin, le mot discuter est plus clair et plus facile à retenir que chat qui n&amp;rsquo;est pas sans rappeler ce petit animal de compagnie pour la majorité des utilisateurs·trices francophones qui utilisent cette instance de Mattermost.</description>

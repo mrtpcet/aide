@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3. Paramètres on aide.pcet.link</title>
+    <link>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/</link>
+    <description>Recent content in 3. Paramètres on aide.pcet.link</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 30 Jan 2021 10:30:29 +0200</lastBuildDate><atom:link href="https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paramètres du compte</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-du-compte/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-du-compte/</guid>
+      <description>Paramètres du compte #   Les paramètres du compte sont accessibles à partir du Menu principal en cliquant sur les trois points verticaux figurant au-dessus de la liste des canaux de conversations. À partir de là, vous pouvez configurer les paramètres de votre profil, vos préférences en termes de notifications, d&amp;rsquo;intégrations, de réglages des thèmes, et des options d&amp;rsquo;affichage.
+Général #  Paramètres pour indiquer votre nom, votre nom d&amp;rsquo;utilisateur·trice, votre pseudonyme, votre adresse e-mail, et choisir une photo de profil.</description>
+    </item>
+    
+    <item>
+      <title>Couleurs du thème</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/couleurs-du-theme/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/couleurs-du-theme/</guid>
+      <description>Couleurs du thème #   Les couleurs de l&amp;rsquo;interface utilisateur de Mattermost sont personnalisables dans Paramètres du compte &amp;gt; Affichage &amp;gt; Thème. Il est possible d&amp;rsquo;importer son propre thème depuis Slack, de personnaliser les couleurs soi-même, ou de choisir parmi les quatre thèmes par défaut conçus par l&amp;rsquo;équipe Mattermost.
+Thèmes standard #  Sélectionnez Couleurs du thème pour choisir parmi les quatre thèmes par défaut conçus par l&amp;rsquo;équipe Mattermost. Pour personnaliser l&amp;rsquo;un d&amp;rsquo;eux, cliquez dessus puis sur Personnaliser pour le charger dans le sélecteur de couleurs.</description>
+    </item>
+    
+    <item>
+      <title>Paramètres d&#39;équipe </title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-equipe/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-equipe/</guid>
+      <description>Paramètres d&amp;rsquo;équipe #   Le menu Paramètres d&amp;quot;équipe permet aux administrateur·trice·s d&amp;rsquo;équipes, aux propriétaires d&amp;rsquo;équipes et aux administrateur·trice·s système de modifier les paramètres appliqués à une équipe en particulier.
+Les paramètres suivants sont disponibles sur un site d&amp;rsquo;équipe depuis le menu Trois-points en haut du panneau latéral gauche dans Paramètres d&amp;rsquo;équipe.
+Général #  Les paramètres généraux dans le menu Paramètres d&amp;rsquo;équipe &amp;gt; Général configurent la manière dont une équipe est affichée aux utilisateur·trice·s.</description>
+    </item>
+    
+    <item>
+      <title>Paramètres du canal</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-du-canal/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-du-canal/</guid>
+      <description>Paramètres du canal #   Les préférences de notification, l&amp;rsquo;en-tête du canal et le sujet du canal sont personnalisables pour chaque canal.
+Préférences de notification des canaux #  Les préférences de notification peuvent être modifiées pour chaque canal dont vous êtes membre.
+Envoyer les notifications #  Par défaut, les préférences des notifications de bureau définies dans Paramètres du compte sont utilisées pour tous les canaux. Pour personnaliser les notifications de bureau pour chaque canal, cliquez sur le nom du canal en haut du panneau central pour accéder au menu déroulant, puis cliquez sur Préférences de notifications &amp;gt; Envoyer des notifications de bureau.</description>
+    </item>
+    
+  </channel>
+</rss>

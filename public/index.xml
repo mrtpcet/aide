@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aide.pcet.link</title>
+    <link>https://mrtpcet.github.io/aide.pcet.link/</link>
+    <description>Recent content on aide.pcet.link</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 30 Jan 2021 11:30:29 +0200</lastBuildDate><atom:link href="https://mrtpcet.github.io/aide.pcet.link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exemple d&#39;utilisation</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/date/exemple-d-utilisation/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/date/exemple-d-utilisation/</guid>
+      <description>Exemple d’utilisation de Date #   DATE fonctionne comme un Doodle1, sauf qu&amp;rsquo;en plus du sondage sur la date, pour pouvez créer un sondage sur n&amp;rsquo;importe quel sujet.
+Exemple d&amp;rsquo;un sondage &amp;ldquo;quelconque&amp;rdquo; : #  Que préférez-vous parmi ces trois thèmes pour l&#39;anniversaire de Pôtichat ? Ainsi, chaque personne vote (ou non) pour chaque proposition (voir image ci-dessous).
+Exemple d&amp;rsquo;un sondage &amp;ldquo;planning&amp;rdquo; : #  Quand êtes-vous disponibles parmi ces dates pour notre cousinade ?</description>
+    </item>
+    
+    <item>
+      <title>Exemple d&#39;utilisation</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/exemple-d-utilisation/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/exemple-d-utilisation/</guid>
+      <description>Exemple d’utilisation de Discuter #  L&amp;rsquo;exemple ci-dessous a été rédigée par Framasoft pour Framateam (leur instance Mattermost), mais tout fonctionne exactement de la même façon sur Discuter !  L’asso LICORNES veut quitter son groupe Facebook #  Sandrine, la présidente de l&amp;rsquo;association LICORNE, en a marre d’utiliser Facebook pour discuter avec les membres.
+Créer son équipe #  Elle décide donc de se créer un compte Discuter. Ça, c’est facile : le truc classique, en trois étapes :</description>
+    </item>
+    
+    <item>
+      <title>Envoi de messages</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/envoi-de-messages/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/envoi-de-messages/</guid>
+      <description>Envoi de messages #   Types de messages #  Répondez aux posts pour garder la conversation organisée en fils de discussion.
+Posts #  Les posts peuvent êtres considérés comme des messages parents. Ce sont les messages qui démarrent souvent un fil de discussion. Les posts sont composés et envoyés depuis la zone de texte située en bas du panneau central.
+Réponses #  Répondez à un message en cliquant sur l&amp;rsquo;icône répondre située à côté de n&amp;rsquo;importe quel message texte.</description>
+    </item>
+    
+    <item>
+      <title>Paramètres du compte</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-du-compte/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-du-compte/</guid>
+      <description>Paramètres du compte #   Les paramètres du compte sont accessibles à partir du Menu principal en cliquant sur les trois points verticaux figurant au-dessus de la liste des canaux de conversations. À partir de là, vous pouvez configurer les paramètres de votre profil, vos préférences en termes de notifications, d&amp;rsquo;intégrations, de réglages des thèmes, et des options d&amp;rsquo;affichage.
+Général #  Paramètres pour indiquer votre nom, votre nom d&amp;rsquo;utilisateur·trice, votre pseudonyme, votre adresse e-mail, et choisir une photo de profil.</description>
+    </item>
+    
+    <item>
+      <title>Se connecter sur Discuter</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/se-connecter/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/se-connecter/</guid>
+      <description>Identification #   Vous pouvez vous identifier à partir de l&amp;rsquo;adresse web https://discuter.pcet.link/.
+Mes identifiants #  Vous pouvez vous identifier avec le nom d&amp;rsquo;utilisateur·trice ou l&amp;rsquo;adresse de courriel utilisée pour la création du compte.
+Si vous avez oublié votre mot de passe, vous pouvez le réinitialiser en cliquant sur l&amp;rsquo;onglet J&amp;rsquo;ai oublié mon mot de passe sur la page d&amp;rsquo;identification, ou en contactant votre administrateur·trice système pour obtenir de l&amp;rsquo;aide afin de réinitialiser votre mot de passe.</description>
+    </item>
+    
+    <item>
+      <title>Prise en main</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/date/prise-en-main/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/date/prise-en-main/</guid>
+      <description>Planifier un rendez-vous rapidement avec Date #   0. Ouverture #  Pour créer un nouveau sondage, rendez-vous sur https://date.pcet.link.
+Puis cliquez sur  Créer un sondage spécial dates 
+Notez que vous pourrez retrouver tous vos sondages en cliquant sur « Où sont mes sondages ». Il suffira alors de renseigner votre adresse courriel.
+ 1. Configuration #  Remplissez le formulaire de présentation du sondage,
+Votre adresse courriel ne sera utilisée que pour communiquer les informations relatives au sondage (aucune donnée n&amp;rsquo;est transmise à un tiers, tout est confidentiel !</description>
+    </item>
+    
+    <item>
+      <title>Couleurs du thème</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/couleurs-du-theme/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/couleurs-du-theme/</guid>
+      <description>Couleurs du thème #   Les couleurs de l&amp;rsquo;interface utilisateur de Mattermost sont personnalisables dans Paramètres du compte &amp;gt; Affichage &amp;gt; Thème. Il est possible d&amp;rsquo;importer son propre thème depuis Slack, de personnaliser les couleurs soi-même, ou de choisir parmi les quatre thèmes par défaut conçus par l&amp;rsquo;équipe Mattermost.
+Thèmes standard #  Sélectionnez Couleurs du thème pour choisir parmi les quatre thèmes par défaut conçus par l&amp;rsquo;équipe Mattermost. Pour personnaliser l&amp;rsquo;un d&amp;rsquo;eux, cliquez dessus puis sur Personnaliser pour le charger dans le sélecteur de couleurs.</description>
+    </item>
+    
+    <item>
+      <title>Installer les applications</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/applications/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/applications/</guid>
+      <description>Installer les applications #   Installer Mattermost sur un smartphone Android #  Vos équipes Mattermost sont accessibles sur les terminaux android en téléchargeant l&amp;rsquo;application Mattermost App.
+ Ouvrez le play store sur votre appareil Android  Cherchez « Mattermost » et cliquez sur Installer pour télécharger gratuitement l&amp;rsquo;application Ouvrez Mattermost depuis votre écran d&amp;rsquo;accueil puis :  Entrez l&amp;rsquo;URL du serveur Mattermost, c&amp;rsquo;est à dire https://discuter.pcet.link/ S&amp;rsquo;identifier dans Mattermost : il s&amp;rsquo;agit de vos identifiants de compte comme décrit à l&amp;rsquo;étape précédente.</description>
+    </item>
+    
+    <item>
+      <title>Mentionner des membres</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/mentionner-des-membres/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/mentionner-des-membres/</guid>
+      <description>Mentionner des membres #   @Mentions #  Utilisez les @mentions pour attirer l&amp;rsquo;attention de certains membres d&amp;rsquo;une équipe.
+@utilisateur #  Vous pouvez mentionner une personne en utilisant le symbole &amp;lsquo;@&amp;rsquo; puis leur nom d&amp;rsquo;utilisateur·trice pour leur envoyer une notification de mention. Saisissez &amp;lsquo;@&amp;rsquo; et vous verrez une liste des membres de votre équipe pouvant être mentionnés.
+Saisissez complètement un nom d&amp;rsquo;utilisateur·trice ou utilisez les flèches Haut et Bas et appuyez ensuite sur ENTRÉE afin de sélectionner les utilisateur·trice·s que vous souhaitez mentionner.</description>
+    </item>
+    
+    <item>
+      <title>Politique de confidentialité</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/politique-de-confidentialite/</link>
+      <pubDate>Sun, 03 May 2020 19:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/politique-de-confidentialite/</guid>
+      <description>Politique de confidentialité #   Si vous n&amp;rsquo;avez jamais mis le nez dans les politiques de confidentialité d&amp;rsquo;un service, rassurez-vous, celle du service Discuter (et de tous les services hébergés par mes soins) est très simple.
+Définitions : #  L&amp;rsquo;Éditeur : C&amp;rsquo;est moi, c&amp;rsquo;est Herminien, qui maintient les services dont Discuter.
+Le Site : C&amp;rsquo;est Discuter.
+L&amp;rsquo;Utilisateur·trice : C&amp;rsquo;est vous.
+Quelles données sont collectées ? #  Dans le cadre de son activité, Herminien avec son site internet DISCUTER, est amenée à collecter et à traiter des informations dont certaines sont qualifiées de &amp;ldquo;données personnelles&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Fonctionnalités</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/date/fonctionnalites/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/date/fonctionnalites/</guid>
+      <description>Fonctionnalités #   Modifier la date d&amp;rsquo;expiration #  Pour prolonger la date d&amp;rsquo;expiration vous devez :
+ utiliser le lien d&amp;rsquo;administration (celui finissant par /admin) passer la souris sous Date d&amp;rsquo;expiration et cliquer sur l&amp;rsquo;icône &amp;ldquo;crayon&amp;rdquo;  modifier la date cliquer sur l&amp;rsquo;icône de validation   Vous pouvez cliquer sur celle d&amp;rsquo;annulation  si vous ne souhaitez finalement pas modifier la date.
+Modifier l&amp;rsquo;édition des votes #  Pour modifier la façon de modifier les votes vous devez :</description>
+    </item>
+    
+    <item>
+      <title>Bases de la messagerie</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/les-bases/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/les-bases/</guid>
+      <description>Bases de la messagerie #   Écrivez un message en utilisant la boîte de texte en bas de Mattermost. Appuyez sur ENTRÉE pour envoyer un message. Utilisez Majuscule + ENTRÉE pour créer une nouvelle ligne sans envoyer de message.
+Répondez à un message en cliquant sur la flèche de réponse à côté du texte du message.
+Notifiez vos coéquipiers quand c&amp;rsquo;est nécessaire en saisissant @pseudo
+Formatez vos messages en utilisant Markdown, qui prend en charge la mise en forme du texte, les titres, les liens, les émoticônes, les blocs de code, les citations, les tableaux, les listes et les images sur la même ligne.</description>
+    </item>
+    
+    <item>
+      <title>Configuration des notifications</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/configuration-des-notifications/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/configuration-des-notifications/</guid>
+      <description>Configuration des notifications #   Les notifications de bureau, de courriel et de push mobile vous informent de l&amp;rsquo;activité dans Mattermost. Lorsque vous rejoignez une équipe, Mattermost vous informe des messages qui vous sont adressés, y compris lorsque :
+ quelqu&amp;rsquo;un vous mentionne spécifiquement avec votre identifiant @nom quelqu&amp;rsquo;un vous envoie un message direct quelqu&amp;rsquo;un mentionne votre nom d&amp;rsquo;utilisateur ou votre prénom dans un canal quelqu&amp;rsquo;un notifie un canal dans lequel vous êtes en utilisant @channel ou @all quelqu&amp;rsquo;un utilise un mot-clé que vous avez configuré  Notifications de messages non lus #  Vous êtes notifié par un nom de canal en gras et un astérisque de notification sur l&amp;rsquo;onglet de votre navigateur lorsqu’il y a eu de l’activité dans les canaux dont vous êtes membre depuis votre dernière connexion.</description>
+    </item>
+    
+    <item>
+      <title>Formater le texte</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/formater-le-texte/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/formater-le-texte/</guid>
+      <description>Formater le texte #   Markdown simplifie le formatage des messages. Saisissez un message comme vous le feriez normalement, et utilisez les règles suivantes pour l&amp;rsquo;afficher avec un formatage spécial.
+Styles de texte #  Vous pouvez utiliser _ ou * autour d&amp;rsquo;un mot pour le mettre en italique. Mettez-en deux pour le mettre en gras.
+ _italique_ s&amp;rsquo;affiche ainsi : italique **gras** s&amp;rsquo;affiche ainsi : gras **_gras-italique_** s&amp;rsquo;affiche ainsi : gras-italique ~~barré~~ s&amp;rsquo;affiche ainsi : barré  Blocs de code #  Créez un bloc de code en indentant chaque ligne avec quatre espaces, ou en mettant trois accents graves sur la ligne au dessus et en dessous de votre code.</description>
+    </item>
+    
+    <item>
+      <title>Paramètres d&#39;équipe </title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-equipe/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-equipe/</guid>
+      <description>Paramètres d&amp;rsquo;équipe #   Le menu Paramètres d&amp;quot;équipe permet aux administrateur·trice·s d&amp;rsquo;équipes, aux propriétaires d&amp;rsquo;équipes et aux administrateur·trice·s système de modifier les paramètres appliqués à une équipe en particulier.
+Les paramètres suivants sont disponibles sur un site d&amp;rsquo;équipe depuis le menu Trois-points en haut du panneau latéral gauche dans Paramètres d&amp;rsquo;équipe.
+Général #  Les paramètres généraux dans le menu Paramètres d&amp;rsquo;équipe &amp;gt; Général configurent la manière dont une équipe est affichée aux utilisateur·trice·s.</description>
+    </item>
+    
+    <item>
+      <title>Paramètres du canal</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-du-canal/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/parametres/parametres-du-canal/</guid>
+      <description>Paramètres du canal #   Les préférences de notification, l&amp;rsquo;en-tête du canal et le sujet du canal sont personnalisables pour chaque canal.
+Préférences de notification des canaux #  Les préférences de notification peuvent être modifiées pour chaque canal dont vous êtes membre.
+Envoyer les notifications #  Par défaut, les préférences des notifications de bureau définies dans Paramètres du compte sont utilisées pour tous les canaux. Pour personnaliser les notifications de bureau pour chaque canal, cliquez sur le nom du canal en haut du panneau central pour accéder au menu déroulant, puis cliquez sur Préférences de notifications &amp;gt; Envoyer des notifications de bureau.</description>
+    </item>
+    
+    <item>
+      <title>Conditions d&#39;utilisation</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/conditions-d-utilisation/</link>
+      <pubDate>Sun, 03 May 2020 11:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/conditions-d-utilisation/</guid>
+      <description>Conditions d&amp;rsquo;utilisation #   Conditions d&amp;rsquo;utilisation du service Mattermost (à écrire !)</description>
+    </item>
+    
+    <item>
+      <title>Astuces</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/date/astuces/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/date/astuces/</guid>
+      <description>Astuces #   Intégrer des images à un Framadate #  Framadate classique permet d&amp;rsquo;insérer des images pour faire un sondage. Pour cela, il faut que les images soient déjà en ligne. Si elles sont sur votre ordinateur, vous devez les mettre sur un hébergeur d&amp;rsquo;images. Dans notre exemple, celui-ci sera Lutim.
+Sur Lutim :
+ cliquez sur Cliquez pour utiliser le navigateur de fichier sélectionnez les photos à insérer (maintenez la touche ctrl en cliquant sur les photos pour en sélectionner plusieurs) cliquez sur Ouvrir pour les envoyer sur Framapic  Vous obtenez alors les liens vers vos photos.</description>
+    </item>
+    
+    <item>
+      <title>Joindre des fichiers</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/joindre-des-fichiers/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/joindre-des-fichiers/</guid>
+      <description>Joindre des fichiers #   Méthodes pour joindre un fichier #  Pour des pièces jointes temporaires, préférez un service comme FILE ou recherchez d&amp;rsquo;autres alternatives sur le Wiki pour éviter de prendre inutilement de la place sur le serveur.  Joignez un fichier en effectuant un glisser-déposer, ou cliquez sur l’icône pièce jointe dans la fenêtre de création de message.
+Glisser-Déposer #  Pour des pièces jointes temporaires, préférez un service comme FILE ou recherchez d&amp;rsquo;autres alternatives sur le Wiki pour éviter de prendre inutilement de la place sur le serveur.</description>
+    </item>
+    
+    <item>
+      <title>Organisation des conversations</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/organisation-des-conversations/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/organisation-des-conversations/</guid>
+      <description>Organisation des conversations #   Types de canaux #  Les canaux sont utilisés pour organiser les discussions entre les différents sujets. Il y a trois types de canaux : les canaux publics, les canaux privés et les messages personnels.
+Canaux publics #  Les canaux publics sont ouverts à toute l&amp;rsquo;équipe. Les nouveaux membres de l&amp;rsquo;équipe sont automatiquement intégrés à deux canaux publics : Centre Ville et Hors-Sujet.</description>
+    </item>
+    
+    <item>
+      <title>Exécuter des commandes</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/executer-des-commandes/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/executer-des-commandes/</guid>
+      <description>Exécuter des commandes #   Les commandes s&amp;rsquo;exécutent dans Mattermost en tapant dans la zone de texte. Saisissez un / suivi par une commande et des arguments pour effectuer des actions.
+Les commandes intégrées sont présentes dans toutes les installations Mattermost, et les commandes personnalisées sont paramétrables pour interagir avec des applications extérieures. Apprenez comment paramétrer des commandes personnalisées sur la page de documentation des commandes.
+Commandes intégrées #  Les commandes suivantes sont disponibles sur toutes les installations Mattermost :</description>
+    </item>
+    
+    <item>
+      <title>Recherche</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/recherche/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/recherche/</guid>
+      <description>Recherche #   La zone de recherche de Mattermost renvoie les résultats (insensibles à la casse) présents dans tous les canaux dont vous êtes membre. Utilisez des modificateurs pour préciser votre recherche. Cliquez sur Aller à à droite d&amp;rsquo;un résultat pour voir ce message dans l’archive du canal.
+Modificateurs de recherche #  From: et In: #  Utilisez from: pour rechercher des messages d&amp;rsquo;un·e utilisateur·trice spécifique et in: pour rechercher des messages dans des canaux spécifiques.</description>
+    </item>
+    
+    <item>
+      <title>Créer une équipe</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/creer-une-equipe/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/creer-une-equipe/</guid>
+      <description>Créer une équipe #   Méthodes pour créer une équipe #  Les équipes peuvent être créées depuis le menu principal ou lors de votre inscription sur Discuter`
+Lors de votre inscription #  Lors de votre première inscription sur https://discuter.pcet.link, Mattermost va vous demander de choisir entre rejoindre une équipe existante et publique ou Créer une équipe. Choisissez cette option. Autrement, vous pourrez créer une équipe à n&amp;rsquo;importe quel autre moment depuis le menu principal (voir ci-dessous)</description>
+    </item>
+    
+    <item>
+      <title>Marquer un message</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/marquer-un-message/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/marquer-un-message/</guid>
+      <description>Marquer un message #  Discuter vous permet de marquer un message pour pouvoir le retrouver plus facilement (une information importante par exemple).
+Marquer un message d&amp;rsquo;un indicateur de suivi #  Pour marquer un message vous devez passer la souris dessus et cliquer sur l&amp;rsquo;icône 
+Retrouver un message marqué #  Pour retrouver la liste des messages marqués vous devez cliquer sur l&amp;rsquo;icône  à côté de la barre de recherche (tout en haut à droite de l&amp;rsquo;écran).</description>
+    </item>
+    
+    <item>
+      <title>Gestion des membres</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/gestion-des-membres/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/premiers_pas/gestion-des-membres/</guid>
+      <description>Gestion des membres #   Inviter des membres dans une équipe #  Il y a deux méthodes pour inviter de nouveaux membres après la création d&amp;rsquo;une équipe : envoyer des invitations directes et partager le lien d&amp;rsquo;invitation de l&amp;rsquo;équipe.
+Invitations directes #  Les invitations directes sont des courriels d&amp;rsquo;invitations envoyés depuis Framateam directement à l&amp;rsquo;adresse courriel des membres invités. Un lien dans le courriel d&amp;rsquo;invitation amène l&amp;rsquo;utilisateur·trice vers la page de création de compte.</description>
+    </item>
+    
+    <item>
+      <title>Nouvelle adresse</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/nouvelle-adresse/</link>
+      <pubDate>Sat, 30 Jan 2021 11:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/nouvelle-adresse/</guid>
+      <description>Nouvelle adresse #   Pour plus de clarté, l&amp;rsquo;adresse de Mattermost change le 31 janvier 2021.
+ Jusqu&amp;rsquo;au 30 janvier 2021, l&amp;rsquo;adresse était : https://pcet.fr/chat/ À partir du 31 janvier 2021, l&amp;rsquo;adresse est : https://discuter.pcet.link  En effet, j&amp;rsquo;ai décidé de rassembler tous les services que j&amp;rsquo;héberge sur le nom de domaine pcet.link afin de les séparer de mes activités personnelles sur pcet.fr.
+Enfin, le mot discuter est plus clair et plus facile à retenir que chat qui n&amp;rsquo;est pas sans rappeler ce petit animal de compagnie pour la majorité des utilisateurs·trices francophones qui utilisent cette instance de Mattermost.</description>
+    </item>
+    
+    <item>
+      <title>Politique de confidentialité</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/la-lettre-d-herminien/politique-de-confidentialite/</link>
+      <pubDate>Sun, 03 May 2020 19:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/la-lettre-d-herminien/politique-de-confidentialite/</guid>
+      <description>Politique de confidentialité #   Si vous n&amp;rsquo;avez jamais mis le nez dans les politiques de confidentialité d&amp;rsquo;un service, rassurez-vous, celle de la newsletter est très simple.
+Quelles données sont collectées ? #  Dans le cadre de mon envoi de mails, je collecte des données dont certaines sont qualifiées de &amp;ldquo;données personnelles&amp;rdquo;.
+Sur le service (la newsletter), il y a 2 types de données susceptibles d’être recueillies :</description>
+    </item>
+    
+  </channel>
+</rss>

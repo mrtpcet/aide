@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2. Messagerie on aide.pcet.link</title>
+    <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/</link>
+    <description>Recent content in 2. Messagerie on aide.pcet.link</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 30 Jan 2021 10:30:29 +0200</lastBuildDate><atom:link href="https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Envoi de messages</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/envoi-de-messages/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/envoi-de-messages/</guid>
+      <description>Envoi de messages #   Types de messages #  Répondez aux posts pour garder la conversation organisée en fils de discussion.
+Posts #  Les posts peuvent êtres considérés comme des messages parents. Ce sont les messages qui démarrent souvent un fil de discussion. Les posts sont composés et envoyés depuis la zone de texte située en bas du panneau central.
+Réponses #  Répondez à un message en cliquant sur l&amp;rsquo;icône répondre située à côté de n&amp;rsquo;importe quel message texte.</description>
+    </item>
+    
+    <item>
+      <title>Mentionner des membres</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/mentionner-des-membres/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/mentionner-des-membres/</guid>
+      <description>Mentionner des membres #   @Mentions #  Utilisez les @mentions pour attirer l&amp;rsquo;attention de certains membres d&amp;rsquo;une équipe.
+@utilisateur #  Vous pouvez mentionner une personne en utilisant le symbole &amp;lsquo;@&amp;rsquo; puis leur nom d&amp;rsquo;utilisateur·trice pour leur envoyer une notification de mention. Saisissez &amp;lsquo;@&amp;rsquo; et vous verrez une liste des membres de votre équipe pouvant être mentionnés.
+Saisissez complètement un nom d&amp;rsquo;utilisateur·trice ou utilisez les flèches Haut et Bas et appuyez ensuite sur ENTRÉE afin de sélectionner les utilisateur·trice·s que vous souhaitez mentionner.</description>
+    </item>
+    
+    <item>
+      <title>Formater le texte</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/formater-le-texte/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/formater-le-texte/</guid>
+      <description>Formater le texte #   Markdown simplifie le formatage des messages. Saisissez un message comme vous le feriez normalement, et utilisez les règles suivantes pour l&amp;rsquo;afficher avec un formatage spécial.
+Styles de texte #  Vous pouvez utiliser _ ou * autour d&amp;rsquo;un mot pour le mettre en italique. Mettez-en deux pour le mettre en gras.
+ _italique_ s&amp;rsquo;affiche ainsi : italique **gras** s&amp;rsquo;affiche ainsi : gras **_gras-italique_** s&amp;rsquo;affiche ainsi : gras-italique ~~barré~~ s&amp;rsquo;affiche ainsi : barré  Blocs de code #  Créez un bloc de code en indentant chaque ligne avec quatre espaces, ou en mettant trois accents graves sur la ligne au dessus et en dessous de votre code.</description>
+    </item>
+    
+    <item>
+      <title>Joindre des fichiers</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/joindre-des-fichiers/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/joindre-des-fichiers/</guid>
+      <description>Joindre des fichiers #   Méthodes pour joindre un fichier #  Pour des pièces jointes temporaires, préférez un service comme FILE ou recherchez d&amp;rsquo;autres alternatives sur le Wiki pour éviter de prendre inutilement de la place sur le serveur.  Joignez un fichier en effectuant un glisser-déposer, ou cliquez sur l’icône pièce jointe dans la fenêtre de création de message.
+Glisser-Déposer #  Pour des pièces jointes temporaires, préférez un service comme FILE ou recherchez d&amp;rsquo;autres alternatives sur le Wiki pour éviter de prendre inutilement de la place sur le serveur.</description>
+    </item>
+    
+    <item>
+      <title>Exécuter des commandes</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/executer-des-commandes/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/executer-des-commandes/</guid>
+      <description>Exécuter des commandes #   Les commandes s&amp;rsquo;exécutent dans Mattermost en tapant dans la zone de texte. Saisissez un / suivi par une commande et des arguments pour effectuer des actions.
+Les commandes intégrées sont présentes dans toutes les installations Mattermost, et les commandes personnalisées sont paramétrables pour interagir avec des applications extérieures. Apprenez comment paramétrer des commandes personnalisées sur la page de documentation des commandes.
+Commandes intégrées #  Les commandes suivantes sont disponibles sur toutes les installations Mattermost :</description>
+    </item>
+    
+    <item>
+      <title>Marquer un message</title>
+      <link>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/marquer-un-message/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://mrtpcet.github.io/aide.pcet.link/discuter/messagerie/marquer-un-message/</guid>
+      <description>Marquer un message #  Discuter vous permet de marquer un message pour pouvoir le retrouver plus facilement (une information importante par exemple).
+Marquer un message d&amp;rsquo;un indicateur de suivi #  Pour marquer un message vous devez passer la souris dessus et cliquer sur l&amp;rsquo;icône 
+Retrouver un message marqué #  Pour retrouver la liste des messages marqués vous devez cliquer sur l&amp;rsquo;icône  à côté de la barre de recherche (tout en haut à droite de l&amp;rsquo;écran).</description>
+    </item>
+    
+  </channel>
+</rss>

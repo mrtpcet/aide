@@ -34,8 +34,8 @@ jobs:
           extended: true
 
     # Step 3 - Clean and don't fail
-    - name: Clean public directory
-      run: rm -rf public
+    - name: Clean docs directory
+      run: rm -rf docs
 
     # Step 4 - Builds the site using the latest version of Hugo
     # Also specifies the theme we want to use
@@ -47,4 +47,4 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./docs

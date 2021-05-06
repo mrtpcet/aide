@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>La lettre d&#39;Herminien on aide.pcet.link</title>
-    <link>https://mrtpcet.github.io/aide.pcet.link/la-lettre-d-herminien/</link>
-    <description>Recent content in La lettre d&#39;Herminien on aide.pcet.link</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <lastBuildDate>Sat, 03 Oct 2020 10:30:29 +0200</lastBuildDate><atom:link href="https://mrtpcet.github.io/aide.pcet.link/la-lettre-d-herminien/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Politique de confidentialité</title>
-      <link>https://mrtpcet.github.io/aide.pcet.link/la-lettre-d-herminien/politique-de-confidentialite/</link>
-      <pubDate>Sun, 03 May 2020 19:30:29 +0200</pubDate>
-      
-      <guid>https://mrtpcet.github.io/aide.pcet.link/la-lettre-d-herminien/politique-de-confidentialite/</guid>
-      <description>Politique de confidentialité #   Si vous n&amp;rsquo;avez jamais mis le nez dans les politiques de confidentialité d&amp;rsquo;un service, rassurez-vous, celle de la newsletter est très simple.
-Quelles données sont collectées ? #  Dans le cadre de mon envoi de mails, je collecte des données dont certaines sont qualifiées de &amp;ldquo;données personnelles&amp;rdquo;.
-Sur le service (la newsletter), il y a 2 types de données susceptibles d’être recueillies :</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>La lettre d'Herminien on aide.pcet.link</title><link>https://aide.pcet.link/la-lettre-d-herminien/</link><description>Recent content in La lettre d'Herminien on aide.pcet.link</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Sat, 03 Oct 2020 10:30:29 +0200</lastBuildDate><atom:link href="https://aide.pcet.link/la-lettre-d-herminien/index.xml" rel="self" type="application/rss+xml"/><item><title>Politique de confidentialité</title><link>https://aide.pcet.link/la-lettre-d-herminien/politique-de-confidentialite/</link><pubDate>Sun, 03 May 2020 19:30:29 +0200</pubDate><guid>https://aide.pcet.link/la-lettre-d-herminien/politique-de-confidentialite/</guid><description>Politique de confidentialité # Si vous n&amp;rsquo;avez jamais mis le nez dans les politiques de confidentialité d&amp;rsquo;un service, rassurez-vous, celle de la newsletter est très simple.
+Quelles données sont collectées ? # Dans le cadre de mon envoi de mails, je collecte des données dont certaines sont qualifiées de &amp;ldquo;données personnelles&amp;rdquo;.
+Sur le service (la newsletter), il y a 2 types de données susceptibles d’être recueillies :</description></item></channel></rss>

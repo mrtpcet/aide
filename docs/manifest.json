@@ -1,14 +1,14 @@
 {
   "name": "aide.pcet.link",
   "short_name": "aide.pcet.link",
-  "start_url": "/aide.pcet.link/",
-  "scope": "/aide.pcet.link/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/aide.pcet.link/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]

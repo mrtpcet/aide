@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1. Premiers pas on aide.pcet.link</title>
+    <link>https://aide.pcet.link/discuter/premiers_pas/</link>
+    <description>Recent content in 1. Premiers pas on aide.pcet.link</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 30 Jan 2021 10:30:29 +0200</lastBuildDate><atom:link href="https://aide.pcet.link/discuter/premiers_pas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Se connecter sur Discuter</title>
+      <link>https://aide.pcet.link/discuter/premiers_pas/se-connecter/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/discuter/premiers_pas/se-connecter/</guid>
+      <description>Identification #   Vous pouvez vous identifier à partir de l&amp;rsquo;adresse web https://discuter.pcet.link/.
+Mes identifiants #  Vous pouvez vous identifier avec le nom d&amp;rsquo;utilisateur·trice ou l&amp;rsquo;adresse de courriel utilisée pour la création du compte.
+Si vous avez oublié votre mot de passe, vous pouvez le réinitialiser en cliquant sur l&amp;rsquo;onglet J&amp;rsquo;ai oublié mon mot de passe sur la page d&amp;rsquo;identification, ou en contactant votre administrateur·trice système pour obtenir de l&amp;rsquo;aide afin de réinitialiser votre mot de passe.</description>
+    </item>
+    
+    <item>
+      <title>Installer les applications</title>
+      <link>https://aide.pcet.link/discuter/premiers_pas/applications/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/discuter/premiers_pas/applications/</guid>
+      <description>Installer les applications #   Installer Mattermost sur un smartphone Android #  Vos équipes Mattermost sont accessibles sur les terminaux android en téléchargeant l&amp;rsquo;application Mattermost App.
+ Ouvrez le play store sur votre appareil Android  Cherchez « Mattermost » et cliquez sur Installer pour télécharger gratuitement l&amp;rsquo;application Ouvrez Mattermost depuis votre écran d&amp;rsquo;accueil puis :  Entrez l&amp;rsquo;URL du serveur Mattermost, c&amp;rsquo;est à dire https://discuter.pcet.link/ S&amp;rsquo;identifier dans Mattermost : il s&amp;rsquo;agit de vos identifiants de compte comme décrit à l&amp;rsquo;étape précédente.</description>
+    </item>
+    
+    <item>
+      <title>Bases de la messagerie</title>
+      <link>https://aide.pcet.link/discuter/premiers_pas/les-bases/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/discuter/premiers_pas/les-bases/</guid>
+      <description>Bases de la messagerie #   Écrivez un message en utilisant la boîte de texte en bas de Mattermost. Appuyez sur ENTRÉE pour envoyer un message. Utilisez Majuscule + ENTRÉE pour créer une nouvelle ligne sans envoyer de message.
+Répondez à un message en cliquant sur la flèche de réponse à côté du texte du message.
+Notifiez vos coéquipiers quand c&amp;rsquo;est nécessaire en saisissant @pseudo
+Formatez vos messages en utilisant Markdown, qui prend en charge la mise en forme du texte, les titres, les liens, les émoticônes, les blocs de code, les citations, les tableaux, les listes et les images sur la même ligne.</description>
+    </item>
+    
+    <item>
+      <title>Configuration des notifications</title>
+      <link>https://aide.pcet.link/discuter/premiers_pas/configuration-des-notifications/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/discuter/premiers_pas/configuration-des-notifications/</guid>
+      <description>Configuration des notifications #   Les notifications de bureau, de courriel et de push mobile vous informent de l&amp;rsquo;activité dans Mattermost. Lorsque vous rejoignez une équipe, Mattermost vous informe des messages qui vous sont adressés, y compris lorsque :
+ quelqu&amp;rsquo;un vous mentionne spécifiquement avec votre identifiant @nom quelqu&amp;rsquo;un vous envoie un message direct quelqu&amp;rsquo;un mentionne votre nom d&amp;rsquo;utilisateur ou votre prénom dans un canal quelqu&amp;rsquo;un notifie un canal dans lequel vous êtes en utilisant @channel ou @all quelqu&amp;rsquo;un utilise un mot-clé que vous avez configuré  Notifications de messages non lus #  Vous êtes notifié par un nom de canal en gras et un astérisque de notification sur l&amp;rsquo;onglet de votre navigateur lorsqu’il y a eu de l’activité dans les canaux dont vous êtes membre depuis votre dernière connexion.</description>
+    </item>
+    
+    <item>
+      <title>Organisation des conversations</title>
+      <link>https://aide.pcet.link/discuter/premiers_pas/organisation-des-conversations/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/discuter/premiers_pas/organisation-des-conversations/</guid>
+      <description>Organisation des conversations #   Types de canaux #  Les canaux sont utilisés pour organiser les discussions entre les différents sujets. Il y a trois types de canaux : les canaux publics, les canaux privés et les messages personnels.
+Canaux publics #  Les canaux publics sont ouverts à toute l&amp;rsquo;équipe. Les nouveaux membres de l&amp;rsquo;équipe sont automatiquement intégrés à deux canaux publics : Centre Ville et Hors-Sujet.</description>
+    </item>
+    
+    <item>
+      <title>Recherche</title>
+      <link>https://aide.pcet.link/discuter/premiers_pas/recherche/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/discuter/premiers_pas/recherche/</guid>
+      <description>Recherche #   La zone de recherche de Mattermost renvoie les résultats (insensibles à la casse) présents dans tous les canaux dont vous êtes membre. Utilisez des modificateurs pour préciser votre recherche. Cliquez sur Aller à à droite d&amp;rsquo;un résultat pour voir ce message dans l’archive du canal.
+Modificateurs de recherche #  From: et In: #  Utilisez from: pour rechercher des messages d&amp;rsquo;un·e utilisateur·trice spécifique et in: pour rechercher des messages dans des canaux spécifiques.</description>
+    </item>
+    
+    <item>
+      <title>Créer une équipe</title>
+      <link>https://aide.pcet.link/discuter/premiers_pas/creer-une-equipe/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/discuter/premiers_pas/creer-une-equipe/</guid>
+      <description>Créer une équipe #   Méthodes pour créer une équipe #  Les équipes peuvent être créées depuis le menu principal ou lors de votre inscription sur Discuter`
+Lors de votre inscription #  Lors de votre première inscription sur https://discuter.pcet.link, Mattermost va vous demander de choisir entre rejoindre une équipe existante et publique ou Créer une équipe. Choisissez cette option. Autrement, vous pourrez créer une équipe à n&amp;rsquo;importe quel autre moment depuis le menu principal (voir ci-dessous)</description>
+    </item>
+    
+    <item>
+      <title>Gestion des membres</title>
+      <link>https://aide.pcet.link/discuter/premiers_pas/gestion-des-membres/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/discuter/premiers_pas/gestion-des-membres/</guid>
+      <description>Gestion des membres #   Inviter des membres dans une équipe #  Il y a deux méthodes pour inviter de nouveaux membres après la création d&amp;rsquo;une équipe : envoyer des invitations directes et partager le lien d&amp;rsquo;invitation de l&amp;rsquo;équipe.
+Invitations directes #  Les invitations directes sont des courriels d&amp;rsquo;invitations envoyés depuis Framateam directement à l&amp;rsquo;adresse courriel des membres invités. Un lien dans le courriel d&amp;rsquo;invitation amène l&amp;rsquo;utilisateur·trice vers la page de création de compte.</description>
+    </item>
+    
+  </channel>
+</rss>

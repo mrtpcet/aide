@@ -1,0 +1,19 @@
+<nav class="nav">
+<ul class="flat-inv" style="padding-left: 0px;">
+  <span class="meta">Vous êtes ici</span>
+  {{ template "breadcrumbnav" (dict "p1" . "p2" .) }}
+</ul>
+{{ define "breadcrumbnav" }}
+{{ if .p1.Parent }}
+{{ if not .p1.Parent.IsHome }}
+{{ template "breadcrumbnav" (dict "p1" .p1.Parent "p2" .p2 )  }}
+{{ end }}
+{{ else if not .p1.IsHome }}
+{{ template "breadcrumbnav" (dict "p1" .p1.Site.Home "p2" .p2 )  }}
+{{ end }}
+{{ $isActive :=  eq .p1 .p2  }}
+ <li class="breadcrumb-item{{ if $isActive }} active{{ end }}" {{ if $isActive }}aria-current="page"{{ end }}>
+	<a href="{{ .p1.Permalink }}">{{ .p1.LinkTitle }}</a>
+</li>
+{{ end }}
+</nav>

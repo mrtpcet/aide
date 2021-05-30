@@ -13,6 +13,8 @@ _____
 
 Si vous n'avez jamais mis le nez dans les politiques de confidentialité d'un service, rassurez-vous, celle de la newsletter est très simple.
 
+**Dernière mise à jour, le 1er juin 2021** : les données liées au visionnages ete aux clics ne sont plus collectées.
+
 
 ## Quelles données sont collectées ?
 
@@ -23,10 +25,10 @@ Sur le service (la newsletter), il y a 2 types de données susceptibles d’êtr
 1. La donnée que vous avez transmise via votre inscription sur le service. Cette donnée est obligatoire si vous souhaitez profiter de la newsletter, c'est votre « adresse email ».
 
 2. Les données collectées automatiquement:
-- la comptabilisation du nombre d'ouvertures d’un mail, seulement si vous choisissez d'afficher les contenus externes, car la détection se fait par le téléchargement d'une image minuscule dans le mail.
-- la comptabilisation du nombre de cliques que vous effectuez sur les liens.
+- ~~la comptabilisation du nombre d'ouvertures d’un mail, seulement si vous choisissez d'afficher les contenus externes, car la détection se fait par le téléchargement d'une image minuscule dans le mail~~.
+- ~~la comptabilisation du nombre de cliques que vous effectuez sur les liens~~.
 
-Ces deux données sont rattachées à un identifiant unique associé à votre adresse email.
+Mise à jour le 1 juin 2021 : ces données ne sont plus collectées.
 
 **Aucune autre donnée n'est collectée**
 

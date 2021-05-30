@@ -67,7 +67,6 @@ Si vous avez oublié votre mot de passe, vous pouvez le réinitialiser en cliqua
       
       <guid>https://aide.pcet.link/date/prise-en-main/</guid>
       <description>Planifier un rendez-vous rapidement avec Date #   0. Ouverture #  Pour créer un nouveau sondage, rendez-vous sur https://date.pcet.link.
-Puis cliquez sur  Créer un sondage spécial dates 
 Notez que vous pourrez retrouver tous vos sondages en cliquant sur « Où sont mes sondages ». Il suffira alors de renseigner votre adresse courriel.
  1. Configuration #  Remplissez le formulaire de présentation du sondage,
 Votre adresse courriel ne sera utilisée que pour communiquer les informations relatives au sondage (aucune donnée n&amp;rsquo;est transmise à un tiers, tout est confidentiel !</description>
@@ -124,7 +123,7 @@ Quelles données sont collectées ? #  Dans le cadre de son activité, Herminien
       
       <guid>https://aide.pcet.link/date/fonctionnalites/</guid>
       <description>Fonctionnalités #   Modifier la date d&amp;rsquo;expiration #  Pour prolonger la date d&amp;rsquo;expiration vous devez :
- utiliser le lien d&amp;rsquo;administration (celui finissant par /admin) passer la souris sous Date d&amp;rsquo;expiration et cliquer sur l&amp;rsquo;icône &amp;ldquo;crayon&amp;rdquo;  modifier la date cliquer sur l&amp;rsquo;icône de validation   Vous pouvez cliquer sur celle d&amp;rsquo;annulation  si vous ne souhaitez finalement pas modifier la date.
+ utiliser le lien d&amp;rsquo;administration (celui finissant par /admin) passer la souris sous Date d&amp;rsquo;expiration et cliquer sur l&amp;rsquo;icône &amp;ldquo;crayon&amp;rdquo;  modifier la date cliquer sur l&amp;rsquo;icône de validation   Vous pouvez cliquer sur celle d&amp;rsquo;annulation si vous ne souhaitez finalement pas modifier la date.
 Modifier l&amp;rsquo;édition des votes #  Pour modifier la façon de modifier les votes vous devez :</description>
     </item>
     
@@ -261,8 +260,7 @@ Lors de votre inscription #  Lors de votre première inscription sur https://dis
       
       <guid>https://aide.pcet.link/discuter/messagerie/marquer-un-message/</guid>
       <description>Marquer un message #  Discuter vous permet de marquer un message pour pouvoir le retrouver plus facilement (une information importante par exemple).
-Marquer un message d&amp;rsquo;un indicateur de suivi #  Pour marquer un message vous devez passer la souris dessus et cliquer sur l&amp;rsquo;icône 
-Retrouver un message marqué #  Pour retrouver la liste des messages marqués vous devez cliquer sur l&amp;rsquo;icône  à côté de la barre de recherche (tout en haut à droite de l&amp;rsquo;écran).</description>
+Marquer un message d&amp;rsquo;un indicateur de suivi #  Pour marquer un message vous devez passer la souris dessus et cliquer sur l&amp;rsquo;icône Retrouver un message marqué #  Pour retrouver la liste des messages marqués vous devez cliquer sur l&amp;rsquo;icône à côté de la barre de recherche (tout en haut à droite de l&amp;rsquo;écran).</description>
     </item>
     
     <item>
@@ -293,8 +291,8 @@ Enfin, le mot discuter est plus clair et plus facile à retenir que chat qui n&a
       
       <guid>https://aide.pcet.link/la-lettre-d-herminien/politique-de-confidentialite/</guid>
       <description>Politique de confidentialité #   Si vous n&amp;rsquo;avez jamais mis le nez dans les politiques de confidentialité d&amp;rsquo;un service, rassurez-vous, celle de la newsletter est très simple.
-Quelles données sont collectées ? #  Dans le cadre de mon envoi de mails, je collecte des données dont certaines sont qualifiées de &amp;ldquo;données personnelles&amp;rdquo;.
-Sur le service (la newsletter), il y a 2 types de données susceptibles d’être recueillies :</description>
+Dernière mise à jour, le 1er juin 2021 : les données liées au visionnages ete aux clics ne sont plus collectées.
+Quelles données sont collectées ? #  Dans le cadre de mon envoi de mails, je collecte des données dont certaines sont qualifiées de &amp;ldquo;données personnelles&amp;rdquo;.</description>
     </item>
     
   </channel>

@@ -11,6 +11,15 @@
     <loc>https://aide.pcet.link/discuter/</loc>
     <lastmod>2020-05-03T10:30:29+02:00</lastmod>
   </url><url>
+    <loc>https://aide.pcet.link/later/exemple-d-utilisation/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/configuration/param%C3%A8tres/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/articles/sauvegarder/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
     <loc>https://aide.pcet.link/discuter/premiers_pas/</loc>
     <lastmod>2021-01-30T10:30:29+02:00</lastmod>
   </url><url>
@@ -24,6 +33,12 @@
     <lastmod>2021-01-30T10:30:29+02:00</lastmod>
   </url><url>
     <loc>https://aide.pcet.link/date/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/articles/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/articles/partager/</loc>
     <lastmod>2020-05-03T10:30:29+02:00</lastmod>
   </url><url>
     <loc>https://aide.pcet.link/date/prise-en-main/</loc>
@@ -47,7 +62,16 @@
     <loc>https://aide.pcet.link/discuter/politique-de-confidentialite/</loc>
     <lastmod>2020-05-03T19:30:29+02:00</lastmod>
   </url><url>
+    <loc>https://aide.pcet.link/later/configuration/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
     <loc>https://aide.pcet.link/date/fonctionnalites/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/articles/tags/</loc>
     <lastmod>2020-05-03T10:30:29+02:00</lastmod>
   </url><url>
     <loc>https://aide.pcet.link/discuter/premiers_pas/les-bases/</loc>
@@ -71,11 +95,17 @@
     <loc>https://aide.pcet.link/date/astuces/</loc>
     <lastmod>2020-05-03T10:30:29+02:00</lastmod>
   </url><url>
+    <loc>https://aide.pcet.link/later/articles/filtres/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
     <loc>https://aide.pcet.link/discuter/messagerie/joindre-des-fichiers/</loc>
     <lastmod>2021-01-30T10:30:29+02:00</lastmod>
   </url><url>
     <loc>https://aide.pcet.link/discuter/premiers_pas/organisation-des-conversations/</loc>
     <lastmod>2021-01-30T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/articles/annotations/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
   </url><url>
     <loc>https://aide.pcet.link/discuter/messagerie/executer-des-commandes/</loc>
     <lastmod>2021-01-30T10:30:29+02:00</lastmod>
@@ -83,11 +113,17 @@
     <loc>https://aide.pcet.link/discuter/premiers_pas/recherche/</loc>
     <lastmod>2021-01-30T10:30:29+02:00</lastmod>
   </url><url>
+    <loc>https://aide.pcet.link/later/articles/sites-restreints/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
     <loc>https://aide.pcet.link/discuter/premiers_pas/creer-une-equipe/</loc>
     <lastmod>2021-01-30T10:30:29+02:00</lastmod>
   </url><url>
     <loc>https://aide.pcet.link/discuter/messagerie/marquer-un-message/</loc>
     <lastmod>2021-01-30T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/articles/telecharger/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
   </url><url>
     <loc>https://aide.pcet.link/discuter/premiers_pas/gestion-des-membres/</loc>
     <lastmod>2021-01-30T10:30:29+02:00</lastmod>
@@ -104,5 +140,16 @@
   </url><url>
     <loc>https://aide.pcet.link/la-lettre-d-herminien/politique-de-confidentialite/</loc>
     <lastmod>2020-05-03T19:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/configuration/configuring_mobile/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/configuration/rss/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/configuration/tagging_rules/</loc>
+    <lastmod>2020-05-03T10:30:29+02:00</lastmod>
+  </url><url>
+    <loc>https://aide.pcet.link/later/configuration/user_information/</loc>
   </url>
 </urlset>

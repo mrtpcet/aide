@@ -2,7 +2,7 @@
 title: "Sauvegarder un article"
 description: "Sauvegardez votre premier article"
 date: 2020-05-03T10:30:29+02:00
-draft: true
+draft: false
 weight: 1
 url: "/later/articles/sauvegarder/"
 ---
@@ -34,7 +34,7 @@ de favoris. L'article est enregistré.
 Dans la barre haut de wallabag, vous avez trois icônes. Avec la première
 icône, un signe plus, vous pouvez facilement ajouter un nouvel article.
 
-![Barre supérieure](../../../img/user/topbar.png)
+![Barre supérieure](/later/images/topbar.png)
 
 Cliquez dessus pour afficher un nouveau champ, collez-y l'URL de
 l'article et appuyez sur la touche `Entrée`. L'article est enregistré.

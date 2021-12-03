@@ -1,6 +1,8 @@
 ---
-
-draft: true
+title: "Règles de tag automatiques"
+description: "Règles de tag automatiques"
+date: 2020-05-03T10:30:29+02:00
+draft: false
 
 ---
 # Règles de tag automatiques

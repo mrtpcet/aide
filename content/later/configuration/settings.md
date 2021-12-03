@@ -2,7 +2,7 @@
 title: "Paramètres"
 description: "Paramètres"
 date: 2020-05-03T10:30:29+02:00
-draft: true
+draft: false
 weight: 1
 url: "/later/configuration/paramètres/"
 ---

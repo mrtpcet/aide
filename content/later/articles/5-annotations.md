@@ -2,7 +2,7 @@
 title: "Annotations"
 description: "Annotez vos articles"
 date: 2020-05-03T10:30:29+02:00
-draft: true
+draft: false
 weight: 5
 url: "/later/articles/annotations/"
 ---
@@ -16,15 +16,15 @@ Puisqu'une image vaut mieux qu'un long discours, voici ce que ça donne.
 Sélectionnez la zone du texte que vous souhaitez annoter et cliquez sur
 le crayon :
 
-![Sélectionnez votre texte](../../../img/user/annotations_1.png)
+![Sélectionnez votre texte](/later/images/annotations_1.png)
 
 Ensuite, écrivez votre annotation :
 
-![Écrivez votre annotation](../../../img/user/annotations_2.png)
+![Écrivez votre annotation](/later/images/annotations_2.png)
 
 Le texte est maintenant surligné et vous pouvez lire le annotation en le
 survolant avec votre souris.
 
-![Lisez votre annotation](../../../img/user/annotations_3.png)
+![Lisez votre annotation](/later/images/annotations_3.png)
 
 Vous pouvez créer autant de annotations que vous le souhaitez.

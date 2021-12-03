@@ -1,6 +1,7 @@
 ---
-
-draft: true
+title: "Mon compte"
+description: "Information sur le compte"
+draft: false
 
 ---
 # Mon compte
@@ -31,7 +32,7 @@ Si vous activez 2FA, à chaque tentative de connexion à wallabag, vous
 recevrez un code par email. Vous devez renseigner ce code dans le
 formulaire suivant :
 
-![Authentification à deux facteurs](../../../img/user/2FA_form.png)
+![Authentification à deux facteurs](/later/images/2FA_form.png)
 
 Si vous ne souhaitez pas recevoir un code à chaque fois que vous vous
 connectez, vous pouvez cocher la case

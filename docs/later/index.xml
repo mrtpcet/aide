@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Later (Wallabag) on aide.pcet.link</title>
+    <link>https://aide.pcet.link/later/</link>
+    <description>Recent content in Later (Wallabag) on aide.pcet.link</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 03 May 2020 10:30:29 +0200</lastBuildDate><atom:link href="https://aide.pcet.link/later/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exemple d&#39;utilisation</title>
+      <link>https://aide.pcet.link/later/exemple-d-utilisation/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/exemple-d-utilisation/</guid>
+      <description>Le principe de wallabag est de sauvegarder un lien vers une pafge web que l&amp;rsquo;on désire mettre de côté afin de la lire plus tard.
+Wallabag permet de créer une collection de liens, triés par des tags, afin de mieux s&amp;rsquo;y retrouver.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,20 +1,12 @@
 ---
-title: "Les articles"
+title: "Gérer ses articles"
 description: "Gestion des articles sauvegardés"
 date: 2020-05-03T10:30:29+02:00
-draft: true
+draft: false
 weight: 2
 bookCollapseSection: true
 ---
 
 Articles
 ========
-Articles are the core feature of wallabag. wallabag's content parser, named Graby gets the content from articles, and only the content.
-
-## Mark articles as read
-
-When you mark an article as read, it gets out of the category « Unread » and gets puts in the « Archive » category.
-
-## Favorite articles
-
-Marking an article as favorite puts it in the « Favorite » category, making it easier to find it.
+Dans les articles suivants, vous apprendre à sauvegarder une page web dans votre compte wallabag, mais aussi à les partager ou encore à y ajouter des tags pour faciliter leur organisation.

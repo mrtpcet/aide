@@ -1,6 +1,8 @@
 ---
-
-draft: true
+title: "Créer un flux rss"
+description: "Créer un flux rss à partir de ses articles sauvegardés"
+date: 2020-05-03T10:30:29+02:00
+draft: false
 
 ---
 # RSS

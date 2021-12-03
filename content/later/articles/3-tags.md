@@ -2,7 +2,7 @@
 title: "Les tags"
 description: "Trier vos articles avec les tags"
 date: 2020-05-03T10:30:29+02:00
-draft: true
+draft: false
 weight: 3
 url: "/later/articles/tags/"
 ---
@@ -18,4 +18,4 @@ cliquer sur le petit crayon à droite du libellé, de changer le nom et de valid
 
 Vous pouvez fusionner plusieurs tags en utilisant le même nom.
 
-![Renommer un tag](../../img/user/rename-tags.gif)
+![Renommer un tag](/later/images/rename-tags.gif)

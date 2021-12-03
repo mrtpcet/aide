@@ -2,7 +2,7 @@
 title: "Les filtres"
 description: "Retrouvez vos articles avec les filtres"
 date: 2020-05-03T10:30:29+02:00
-draft: true
+draft: false
 weight: 4
 url: "/later/articles/filtres/"
 ---
@@ -13,11 +13,11 @@ Retrouver des articles grâce aux filtres
 Pour retrouver plus facilement vos articles, vous pouvez utiliser les
 filtres. Cliquez sur la troisième icône de la barre supérieure.
 
-![Barre supérieure](../../img/user/topbar.png)
+![Barre supérieure](/later/images/topbar.png)
 
 Tous ces filtres peuvent être combinés.
 
-![Combine all filters](../../img/user/filters.png)
+![Combine all filters](/later/images/filters.png)
 
 Statut
 ------

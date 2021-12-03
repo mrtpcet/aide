@@ -29,6 +29,39 @@ Créer son équipe #  Elle décide donc de se créer un compte Discuter. Ça, c�
     </item>
     
     <item>
+      <title>Exemple d&#39;utilisation</title>
+      <link>https://aide.pcet.link/later/exemple-d-utilisation/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/exemple-d-utilisation/</guid>
+      <description>Le principe de wallabag est de sauvegarder un lien vers une pafge web que l&amp;rsquo;on désire mettre de côté afin de la lire plus tard.
+Wallabag permet de créer une collection de liens, triés par des tags, afin de mieux s&amp;rsquo;y retrouver.</description>
+    </item>
+    
+    <item>
+      <title>Paramètres</title>
+      <link>https://aide.pcet.link/later/configuration/param%C3%A8tres/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/configuration/param%C3%A8tres/</guid>
+      <description>Paramètres #  Thème #  L&amp;rsquo;affichage de wallabag est personnalisable. C&amp;rsquo;est ici que vous choisissez le thème que vous préférez. Le thème par défaut est Material, c&amp;rsquo;est celui qui est utilisé dans les captures d&amp;rsquo;écran de la documentation.
+Nombre d&amp;rsquo;articles par page #  Vous pouvez définir le nombre d&amp;rsquo;articles affichés sur chaque page.
+Vitesse de lecture #  wallabag calcule une durée de lecture pour chaque article. Vous pouvez définir ici, grâce à cette liste déroulante, si vous lisez plus ou moins vite.</description>
+    </item>
+    
+    <item>
+      <title>Sauvegarder un article</title>
+      <link>https://aide.pcet.link/later/articles/sauvegarder/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/articles/sauvegarder/</guid>
+      <description>Sauvegardez votre premier article #  La fonctionnalité principale de wallabag est de sauvegarder des articles. Vous avez plusieurs manières de le faire.
+Un guide de démarrage s&amp;rsquo;affichera dans l&amp;rsquo;application jusqu&amp;rsquo;à ce que vous enregistriez votre premier article.
+En utilisant le bookmarklet #  Sur la page Aide, vous avez un onglet Bookmarklet. Glissez/déposez le lien bag it! dans votre barre de favoris de votre navigateur.
+Maintenant, à chaque fois que vous lisez un article et que vous souhaitez le sauvegarder, cliquez sur le lien bag it!</description>
+    </item>
+    
+    <item>
       <title>Envoi de messages</title>
       <link>https://aide.pcet.link/discuter/messagerie/envoi-de-messages/</link>
       <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
@@ -58,6 +91,17 @@ Général #  Paramètres pour indiquer votre nom, votre nom d&amp;rsquo;utilisat
       <description>Identification #   Vous pouvez vous identifier à partir de l&amp;rsquo;adresse web https://discuter.pcet.link/.
 Mes identifiants #  Vous pouvez vous identifier avec le nom d&amp;rsquo;utilisateur·trice ou l&amp;rsquo;adresse de courriel utilisée pour la création du compte.
 Si vous avez oublié votre mot de passe, vous pouvez le réinitialiser en cliquant sur l&amp;rsquo;onglet J&amp;rsquo;ai oublié mon mot de passe sur la page d&amp;rsquo;identification, ou en contactant votre administrateur·trice système pour obtenir de l&amp;rsquo;aide afin de réinitialiser votre mot de passe.</description>
+    </item>
+    
+    <item>
+      <title>Partager</title>
+      <link>https://aide.pcet.link/later/articles/partager/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/articles/partager/</guid>
+      <description>Partagez vos articles #  Quand vous lisez un article, vous pouvez le partager. Cliquez sur le bouton de partage :
+Vous pouvez maintenant le partager :
+ avec une URL publique (vous obtiendrez une vue allégée de l&amp;rsquo;article) avec un tweet dans votre Shaarli dans votre Scuttle avec un message dans Diaspora* sur Carrot avec un email  </description>
     </item>
     
     <item>
@@ -125,6 +169,16 @@ Quelles données sont collectées ? #  Dans le cadre de son activité, Herminien
       <description>Fonctionnalités #   Modifier la date d&amp;rsquo;expiration #  Pour prolonger la date d&amp;rsquo;expiration vous devez :
  utiliser le lien d&amp;rsquo;administration (celui finissant par /admin) passer la souris sous Date d&amp;rsquo;expiration et cliquer sur l&amp;rsquo;icône &amp;ldquo;crayon&amp;rdquo;  modifier la date cliquer sur l&amp;rsquo;icône de validation   Vous pouvez cliquer sur celle d&amp;rsquo;annulation si vous ne souhaitez finalement pas modifier la date.
 Modifier l&amp;rsquo;édition des votes #  Pour modifier la façon de modifier les votes vous devez :</description>
+    </item>
+    
+    <item>
+      <title>Les tags</title>
+      <link>https://aide.pcet.link/later/articles/tags/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/articles/tags/</guid>
+      <description>Tags #  Renommer les tags (pas encore dispo) #  Sur la page listant tous vos tags, vous pouvez aussi les renommer. Il suffit de cliquer sur le petit crayon à droite du libellé, de changer le nom et de valider.
+Vous pouvez fusionner plusieurs tags en utilisant le même nom.</description>
     </item>
     
     <item>
@@ -203,6 +257,18 @@ Sur Lutim :
     </item>
     
     <item>
+      <title>Les filtres</title>
+      <link>https://aide.pcet.link/later/articles/filtres/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/articles/filtres/</guid>
+      <description>Retrouver des articles grâce aux filtres #  Pour retrouver plus facilement vos articles, vous pouvez utiliser les filtres. Cliquez sur la troisième icône de la barre supérieure.
+Tous ces filtres peuvent être combinés.
+Statut #  Utilisez ces cases à cocher pour retrouver les articles lus ou mis en favori.
+Image de prévisualisation #  Cochez ce filtre si vous voulez retrouver les articles avec une image de prévisualisation.</description>
+    </item>
+    
+    <item>
       <title>Joindre des fichiers</title>
       <link>https://aide.pcet.link/discuter/messagerie/joindre-des-fichiers/</link>
       <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
@@ -220,6 +286,19 @@ Glisser-Déposer #  Pour des pièces jointes temporaires, préférez un service 
       <guid>https://aide.pcet.link/discuter/premiers_pas/organisation-des-conversations/</guid>
       <description>Organisation des conversations #   Types de canaux #  Les canaux sont utilisés pour organiser les discussions entre les différents sujets. Il y a trois types de canaux : les canaux publics, les canaux privés et les messages personnels.
 Canaux publics #  Les canaux publics sont ouverts à toute l&amp;rsquo;équipe. Les nouveaux membres de l&amp;rsquo;équipe sont automatiquement intégrés à deux canaux publics : Centre Ville et Hors-Sujet.</description>
+    </item>
+    
+    <item>
+      <title>Annotations</title>
+      <link>https://aide.pcet.link/later/articles/annotations/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/articles/annotations/</guid>
+      <description>Annotez vos articles #  Sur chaque article que vous lisez, vous pouvez écrire des annotations. Puisqu&amp;rsquo;une image vaut mieux qu&amp;rsquo;un long discours, voici ce que ça donne.
+Sélectionnez la zone du texte que vous souhaitez annoter et cliquez sur le crayon :
+Ensuite, écrivez votre annotation :
+Le texte est maintenant surligné et vous pouvez lire le annotation en le survolant avec votre souris.
+Vous pouvez créer autant de annotations que vous le souhaitez.</description>
     </item>
     
     <item>
@@ -244,6 +323,16 @@ Modificateurs de recherche #  From: et In: #  Utilisez from: pour rechercher des
     </item>
     
     <item>
+      <title>Sites restreints</title>
+      <link>https://aide.pcet.link/later/articles/sites-restreints/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/articles/sites-restreints/</guid>
+      <description>Articles à accès restreint #  wallabag offre un système pour récupérer les articles d&amp;rsquo;un site dont l&amp;rsquo;accès au contenu est restreint en fournissant vos identifiants lorsqu&amp;rsquo;un article est récupéré.
+Liste des sites compatibles #  Français #     Nom Disponible à partir de la version     Alternatives Economiques 2.3   Arrêt sur Images 2.2   Canard PC 2.3   Courrier International 2.</description>
+    </item>
+    
+    <item>
       <title>Créer une équipe</title>
       <link>https://aide.pcet.link/discuter/premiers_pas/creer-une-equipe/</link>
       <pubDate>Sat, 30 Jan 2021 10:30:29 +0200</pubDate>
@@ -261,6 +350,17 @@ Lors de votre inscription #  Lors de votre première inscription sur https://dis
       <guid>https://aide.pcet.link/discuter/messagerie/marquer-un-message/</guid>
       <description>Marquer un message #  Discuter vous permet de marquer un message pour pouvoir le retrouver plus facilement (une information importante par exemple).
 Marquer un message d&amp;rsquo;un indicateur de suivi #  Pour marquer un message vous devez passer la souris dessus et cliquer sur l&amp;rsquo;icône Retrouver un message marqué #  Pour retrouver la liste des messages marqués vous devez cliquer sur l&amp;rsquo;icône à côté de la barre de recherche (tout en haut à droite de l&amp;rsquo;écran).</description>
+    </item>
+    
+    <item>
+      <title>Télécharger un article</title>
+      <link>https://aide.pcet.link/later/articles/telecharger/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/articles/telecharger/</guid>
+      <description>Téléchargez vos articles #  Vous pouvez télécharger chaque article dans plusieurs formats : ePUB, MOBI, PDF, XML, JSON, CSV.
+Lorsque vous lisez un article, cliquez sur cette icône dans la barre latérale :
+Vous pouvez aussi télécharger une catégorie (non lus, favoris, lus) dans ces formats. Par exemple, dans la vue Non lus, cliquez sur cette icône dans la barre supérieure :</description>
     </item>
     
     <item>
@@ -293,6 +393,48 @@ Enfin, le mot discuter est plus clair et plus facile à retenir que chat qui n&a
       <description>Politique de confidentialité #   Si vous n&amp;rsquo;avez jamais mis le nez dans les politiques de confidentialité d&amp;rsquo;un service, rassurez-vous, celle de la newsletter est très simple.
 Dernière mise à jour, le 1er juin 2021 : les données liées au visionnages ete aux clics ne sont plus collectées.
 Quelles données sont collectées ? #  Dans le cadre de mon envoi de mails, je collecte des données dont certaines sont qualifiées de &amp;ldquo;données personnelles&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Configuration du mobile</title>
+      <link>https://aide.pcet.link/later/configuration/configuring_mobile/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/configuration/configuring_mobile/</guid>
+      <description>Configurer les applications mobile pour wallabag #  Étapes pour configurer les applications #   Tout d&amp;rsquo;abord, créez un nouveau client dans la section Gestion des clients API. Le nom de votre application importe peu. Ce qui nous intéresse, ce sont l&#39;ID Client et la clé secrète. Notez bien ces deux valeurs. Quand vous installez une application smartphone, on va vous demander de renseigner l&amp;rsquo;adresse de votre serveur de wallabag.</description>
+    </item>
+    
+    <item>
+      <title>Créer un flux rss</title>
+      <link>https://aide.pcet.link/later/configuration/rss/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/configuration/rss/</guid>
+      <description>RSS #  wallabag propose un flux RSS pour chaque statut d&amp;rsquo;article : non lus, favoris et lus.
+Tout d&amp;rsquo;abord, vous devez vous créer un jeton personnel : cliquez sur Créez votre jeton. Il est possible de regénérer votre jeton en cliquant sur Réinitialisez votre jeton.
+Vous avez maintenant trois liens, un par statut : ajoutez-les dans votre agrégateur de flux RSS préféré.
+Vous pouvez aussi définir combien d&amp;rsquo;articles vous souhaitez dans vos flux RSS (50 est la valeur par défaut).</description>
+    </item>
+    
+    <item>
+      <title>Règles de tag automatiques</title>
+      <link>https://aide.pcet.link/later/configuration/tagging_rules/</link>
+      <pubDate>Sun, 03 May 2020 10:30:29 +0200</pubDate>
+      
+      <guid>https://aide.pcet.link/later/configuration/tagging_rules/</guid>
+      <description>Règles de tag automatiques #  Si vous voulez automatiquement assigner un tag à de nouveaux articles en fonction de certains critères, cette partie de la configuration est pour vous.
+Que veut dire « règles de tag automatiques » ? #  Ce sont des règles utilisées par wallabag pour automatiquement assigner un tag à un nouvel article. À chaque fois que vous ajoutez un nouvel article, toutes les règles sont utilisées pour ajouter les tags que vous avez configurés, vous épargnant ainsi la peine de classer manuellement vos articles.</description>
+    </item>
+    
+    <item>
+      <title>Mon compte</title>
+      <link>https://aide.pcet.link/later/configuration/user_information/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aide.pcet.link/later/configuration/user_information/</guid>
+      <description>Mon compte #  Vous pouvez ici modifier votre nom, votre adresse email et activer la Double authentification.
+Si l&amp;rsquo;instance de wallabag compte plus d&amp;rsquo;un utilisateur actif, vous pouvez supprimer ici votre compte. Attention, nous supprimons toutes vos données.
+Double authentification (2FA) #   L&amp;rsquo;authentification à deux facteurs (également appelée 2FA) est une technologie brevetée en 1984 qui fournit l&amp;rsquo;identification des utilisateurs au moyen de la combinaison de deux composants différents .</description>
     </item>
     
   </channel>

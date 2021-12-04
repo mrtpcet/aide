@@ -43,24 +43,23 @@ l'article et appuyez sur la touche `Entrée`. L'article est enregistré.
 
 #### Firefox
 
-Vous pouvez télécharger [l'extension Firefox
-ici](https://addons.mozilla.org/firefox/addon/wallabagger/).
+Vous pouvez télécharger [l'extension Firefox ici](https://addons.mozilla.org/firefox/addon/wallabagger/).
 
 #### Chrome
 
-Vous pouvez télécharger [l'extension Chrome
-ici](https://chrome.google.com/webstore/detail/wallabagger/gbmgphmejlcoihgedabhgjdkcahacjlj?hl=fr).
+Vous pouvez télécharger [l'extension Chrome ici](https://chrome.google.com/webstore/detail/wallabagger/gbmgphmejlcoihgedabhgjdkcahacjlj?hl=fr).
 
 ### En utilisant l'application de votre smartphone
 
 #### Android
 
-Vous pouvez télécharger [l'application Android
-ici](https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche)
+Vous pouvez télécharger [l'application Android ici](https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche)
 ou sur
 [F-Droid](https://f-droid.org/repository/browse/?fdid=fr.gaulupeau.apps.InThePoche).
 
 ##### Windows Phone
 
-Vous pouvez télécharger [l'application Windows Phone
-ici](https://www.microsoft.com/store/apps/9nblggh5x3p6).
+Vous pouvez télécharger [l'application Windows Phone ici](https://www.microsoft.com/store/apps/9nblggh5x3p6).
+
+##### iPhone
+Vous pouvez télécharger [l'application iPhone ici](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303) [Ou ici (une autre application compatible)](https://apps.apple.com/us/app/wallabag-2-official/id1170800946)

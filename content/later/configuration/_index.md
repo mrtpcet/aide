@@ -10,7 +10,7 @@ bookCollapseSection: true
 Configuration
 =============
 
-Maintenant que vous êtes connecté, il est temps de configurer votre
+Maintenant que vous êtes connecté·e, il est temps de configurer votre
 compte.
 
 Cliquez sur le menu `Configuration`. Vous avez accès à 5 onglets :

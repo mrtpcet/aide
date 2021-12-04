@@ -9,7 +9,7 @@ draft: false
 Vous pouvez ici modifier votre nom, votre adresse email et activer la
 `Double authentification`.
 
-Si l'instance de wallabag compte plus d'un utilisateur actif, vous
+Si l'instance de wallabag compte plus d'un·e utilisateur·trice actif, vous
 pouvez supprimer ici votre compte. **Attention, nous supprimons toutes
 vos données**.
 
@@ -17,7 +17,7 @@ vos données**.
 
 > L'authentification à deux facteurs (également appelée 2FA) est une
 > technologie brevetée en 1984 qui fournit l'identification des
-> utilisateurs au moyen de la combinaison de deux composants différents
+> utilisateur·trices au moyen de la combinaison de deux composants différents
 > .
 >
 > <https://fr.wikipedia.org/wiki/Authentification_forte>

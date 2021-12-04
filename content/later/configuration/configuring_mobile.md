@@ -21,7 +21,7 @@ Configurer les applications mobile pour wallabag
     pour cette instance, c'est `https://later.pcet.link`.
 -   Les deux valeurs notées précédemment vous seront également
     demandées. Insérez-les dans les champs correspondants.
--   Enfin, vous devez renseigner votre `nom d'utilisateur` et votre
+-   Enfin, vous devez renseigner votre `nom d'utilisateur·trice` et votre
     `mot de passe`. Ce sont les mêmes valeurs que lorsque vous vous
     connectez à wallabag.
 
@@ -29,3 +29,4 @@ Télécharger les applications pour :
 - [android](https://play.google.com/store/apps/details?id=fr.gaulupeau.apps.InThePoche&hl=en_US&gl=US)
 - [iPhone](https://apps.apple.com/us/app/fiery-feeds-rss-reader/id1158763303)
 - [iPhone (deuxième possibilité)](https://apps.apple.com/us/app/wallabag-2-official/id1170800946)
+- [Windows Phone](https://www.microsoft.com/store/apps/9nblggh5x3p6)
